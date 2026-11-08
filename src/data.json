@@ -1,0 +1,790 @@
+{
+  "scenes": [
+    {
+      "id": 0,
+      "chapter": 0,
+      "title": "A cidade impossível",
+      "date": "1453",
+      "kind": "city",
+      "text": "Entre a Europa e a Ásia, uma cidade guardava a passagem entre dois mundos. Constantinopla dominava o estreito do Bósforo, ligação entre o Mediterrâneo e o mar Negro. Em 1453, suas muralhas ainda protegiam a capital de um império que parecia ter sobrevivido ao próprio tempo.",
+      "start": 0,
+      "duration": 15
+    },
+    {
+      "id": 1,
+      "chapter": 0,
+      "title": "A cidade impossível",
+      "date": "1453",
+      "kind": "map",
+      "text": "Fundada como capital imperial por Constantino no ano 330, a cidade herdou a tradição romana. Seus habitantes não se consideravam personagens de um império chamado bizantino. Eram romanos. O nome Bizâncio se tornaria uma convenção usada depois pelos historiadores.",
+      "start": 15,
+      "duration": 15
+    },
+    {
+      "id": 2,
+      "chapter": 0,
+      "title": "A cidade impossível",
+      "date": "1453",
+      "kind": "army",
+      "text": "A oeste, as muralhas terrestres de Teodósio formavam um sistema de obstáculos: fosso, muro externo e uma linha interna mais alta. No mar, outras muralhas acompanhavam a costa. A geografia e a engenharia tornavam qualquer ataque uma operação difícil.",
+      "start": 30,
+      "duration": 15
+    },
+    {
+      "id": 3,
+      "chapter": 0,
+      "title": "A cidade impossível",
+      "date": "1453",
+      "kind": "map",
+      "text": "Mas nenhuma fortificação existe fora da história. No século quinze, Constantinopla já não controlava os recursos de antes. Diante dela crescia uma potência capaz de cercar a cidade por terra e pelo mar. A proteção parecia imensa. O tempo, porém, estava acabando.",
+      "start": 45,
+      "duration": 15
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "title": "Um império em retração",
+      "date": "1204 → 1453",
+      "kind": "map",
+      "text": "O mapa do Império Romano do Oriente havia mudado profundamente. Guerras, disputas internas e a perda de territórios reduziram sua capacidade de arrecadar impostos e sustentar exércitos. A capital continuava monumental, mas sua força política já não correspondia à grandeza de suas igrejas.",
+      "start": 60,
+      "duration": 15
+    },
+    {
+      "id": 5,
+      "chapter": 1,
+      "title": "Um império em retração",
+      "date": "1204 → 1453",
+      "kind": "city",
+      "text": "Em 1204, durante a Quarta Cruzada, cruzados tomaram e saquearam Constantinopla. A ruptura abriu um período de fragmentação. Quando os bizantinos recuperaram a cidade, em 1261, restauraram a capital, mas não recuperaram integralmente a antiga base econômica e territorial do império.",
+      "start": 75,
+      "duration": 15
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "title": "Um império em retração",
+      "date": "1204 → 1453",
+      "kind": "map",
+      "text": "Nos séculos seguintes, os otomanos ampliaram seu domínio na Anatólia e nos Bálcãs. Constantinopla passou a parecer uma ilha política entre territórios de outra potência. O mapa desta sequência é esquemático: mostra a tendência de retração, sem pretender fixar todas as fronteiras.",
+      "start": 90,
+      "duration": 15
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "title": "Um império em retração",
+      "date": "1204 → 1453",
+      "kind": "city",
+      "text": "O imperador dependia de negociações, de aliados e de ajuda externa. Havia ainda territórios bizantinos no Peloponeso, mas a capital estava isolada. A queda não era inevitável em cada momento. Em 1453, contudo, o desequilíbrio de recursos colocava os defensores em enorme desvantagem.",
+      "start": 105,
+      "duration": 15
+    },
+    {
+      "id": 8,
+      "chapter": 2,
+      "title": "A ambição de Mehmed",
+      "date": "1451–1452",
+      "kind": "character",
+      "text": "Mehmed Segundo assumiu novamente o trono otomano em 1451. Jovem, governava um Estado em expansão. Conquistar Constantinopla significava eliminar uma posição estratégica entre seus territórios e apropriar-se de uma capital cujo prestígio atravessava séculos de história imperial.",
+      "start": 120,
+      "duration": 15
+    },
+    {
+      "id": 9,
+      "chapter": 2,
+      "title": "A ambição de Mehmed",
+      "date": "1451–1452",
+      "kind": "map",
+      "text": "Sua preparação não se resumiu a reunir soldados. Em 1452, mandou construir a fortaleza de Rumeli Hisarı, na margem europeia do Bósforo. Com uma fortaleza otomana já existente na margem oposta, podia pressionar a circulação de embarcações no estreito.",
+      "start": 135,
+      "duration": 15
+    },
+    {
+      "id": 10,
+      "chapter": 2,
+      "title": "A ambição de Mehmed",
+      "date": "1451–1452",
+      "kind": "character",
+      "text": "A conquista dependia de organização. Era preciso transportar alimentos, munição e peças de artilharia; coordenar tropas e frota; manter o cerco por tempo suficiente para desgastar a defesa. A ambição do sultão exigia uma operação logística de grande escala.",
+      "start": 150,
+      "duration": 15
+    },
+    {
+      "id": 11,
+      "chapter": 2,
+      "title": "A ambição de Mehmed",
+      "date": "1451–1452",
+      "kind": "map",
+      "text": "Não conhecemos todos os pensamentos de Mehmed. Seu objetivo político e militar, entretanto, aparece claramente em suas ações. A cidade seria pressionada por diferentes direções. A questão já não era apenas alcançar as muralhas, mas impedir que Constantinopla recebesse o socorro de que precisava.",
+      "start": 165,
+      "duration": 15
+    },
+    {
+      "id": 12,
+      "chapter": 3,
+      "title": "Preparar a guerra",
+      "date": "INVERNO DE 1453",
+      "kind": "army",
+      "text": "Pelas estradas da Trácia, homens, animais e carros avançavam em direção à capital. O cerco exigia trabalho muito antes do combate. Uma peça pesada precisava de tração, caminhos preparados e equipes capazes de transportá-la. A logística fazia parte da força militar otomana.",
+      "start": 180,
+      "duration": 15
+    },
+    {
+      "id": 13,
+      "chapter": 3,
+      "title": "Preparar a guerra",
+      "date": "INVERNO DE 1453",
+      "kind": "army",
+      "text": "A artilharia ocupava um papel decisivo nesse planejamento. Entre os fundidores associados à preparação estava Orbano, conhecido por fabricar grandes bombardas. Os relatos destacam peças enormes, mas os detalhes técnicos e as medidas variam entre as fontes. Não era uma única arma que venceria sozinha.",
+      "start": 195,
+      "duration": 15
+    },
+    {
+      "id": 14,
+      "chapter": 3,
+      "title": "Preparar a guerra",
+      "date": "INVERNO DE 1453",
+      "kind": "army",
+      "text": "Os canhões lançavam projéteis contra as defesas de pedra. Eram lentos, exigiam cuidado e não ofereciam precisão moderna. Seu valor estava na repetição do bombardeio, combinada ao bloqueio e à pressão das tropas. A muralha podia resistir a um disparo; o desgaste se acumulava.",
+      "start": 210,
+      "duration": 15
+    },
+    {
+      "id": 15,
+      "chapter": 3,
+      "title": "Preparar a guerra",
+      "date": "INVERNO DE 1453",
+      "kind": "city",
+      "text": "Dentro da cidade, defensores preparavam posições e procuravam reparar pontos vulneráveis. O confronto opunha recursos muito desiguais, mas não uma máquina perfeita a uma cidade passiva. Os sitiantes enfrentariam obstáculos; os sitiados tentariam ganhar tempo a cada novo ataque.",
+      "start": 225,
+      "duration": 15
+    },
+    {
+      "id": 16,
+      "chapter": 4,
+      "title": "O cerco se fecha",
+      "date": "ABRIL DE 1453",
+      "kind": "siege",
+      "text": "No início de abril de 1453, o exército otomano se posicionou diante de Constantinopla. O cerco costuma ser datado a partir de seis de abril. O eixo principal da pressão terrestre ficava a oeste, onde os atacantes podiam se aproximar do sistema de muralhas.",
+      "start": 240,
+      "duration": 15
+    },
+    {
+      "id": 17,
+      "chapter": 4,
+      "title": "O cerco se fecha",
+      "date": "ABRIL DE 1453",
+      "kind": "map",
+      "text": "As forças otomanas eram muito superiores às da defesa, embora as estimativas de efetivos variem amplamente. Os defensores reuniam habitantes da cidade e contingentes estrangeiros. Entre seus comandantes estava o genovês Giovanni Giustiniani, associado à defesa das muralhas terrestres.",
+      "start": 255,
+      "duration": 15
+    },
+    {
+      "id": 18,
+      "chapter": 4,
+      "title": "O cerco se fecha",
+      "date": "ABRIL DE 1453",
+      "kind": "siege",
+      "text": "O bombardeio atingia setores das fortificações, enquanto os defensores trabalhavam para fechar aberturas. Terra, madeira e materiais disponíveis ajudavam a improvisar reparos. A guerra era feita de impactos e de reconstrução: o que caía durante o dia precisava ser recomposto quando fosse possível.",
+      "start": 270,
+      "duration": 15
+    },
+    {
+      "id": 19,
+      "chapter": 4,
+      "title": "O cerco se fecha",
+      "date": "ABRIL DE 1453",
+      "kind": "map",
+      "text": "Os ataques não avançavam sobre um terreno vazio. Fosso, muros e posições elevadas dificultavam a aproximação. O mapa tático simplifica essas linhas para tornar a operação legível. Na realidade, cada setor tinha suas próprias condições, e nenhuma seta pode representar toda a experiência de um cerco.",
+      "start": 285,
+      "duration": 15
+    },
+    {
+      "id": 20,
+      "chapter": 5,
+      "title": "Uma frota sobre a terra",
+      "date": "ABRIL • CHIFRE DE OURO",
+      "kind": "fleet",
+      "text": "Ao norte da cidade, o Chifre de Ouro oferecia um abrigo importante. Uma corrente protegia sua entrada e dificultava o acesso da frota otomana. Controlar a água significava pressionar outra parte da defesa e limitar as possibilidades de abastecimento e de socorro.",
+      "start": 300,
+      "duration": 15
+    },
+    {
+      "id": 21,
+      "chapter": 5,
+      "title": "Uma frota sobre a terra",
+      "date": "ABRIL • CHIFRE DE OURO",
+      "kind": "fleet",
+      "text": "Em vinte de abril, navios cristãos conseguiram alcançar a cidade após um confronto naval. O episódio mostrou que o bloqueio podia ser desafiado. Para Mehmed, a barreira do Chifre de Ouro continuava sendo um problema estratégico que exigia uma resposta.",
+      "start": 315,
+      "duration": 15
+    },
+    {
+      "id": 22,
+      "chapter": 5,
+      "title": "Uma frota sobre a terra",
+      "date": "ABRIL • CHIFRE DE OURO",
+      "kind": "fleet",
+      "text": "A solução mais lembrada foi transportar embarcações por terra, contornando a região de Gálata. Na noite de vinte e um para vinte e dois de abril, navios otomanos foram deslocados por uma rota preparada até o Chifre de Ouro. O percurso exato e os números são discutidos.",
+      "start": 330,
+      "duration": 15
+    },
+    {
+      "id": 23,
+      "chapter": 5,
+      "title": "Uma frota sobre a terra",
+      "date": "ABRIL • CHIFRE DE OURO",
+      "kind": "fleet",
+      "text": "A operação não derrubou as muralhas naquele instante. Seu efeito foi ampliar a pressão e obrigar os defensores a repartir atenção e recursos. A corrente continuava lá, mas parte da frota agora estava do outro lado. A geografia da defesa havia sido transformada.",
+      "start": 345,
+      "duration": 15
+    },
+    {
+      "id": 24,
+      "chapter": 6,
+      "title": "Resistir ao cerco",
+      "date": "CONSTANTINO XI",
+      "kind": "character",
+      "text": "Constantino Onze governava uma capital cercada e um império reduzido. Sua presença tornou-se um símbolo da resistência. Para os habitantes, porém, o cerco também era uma experiência concreta de medo, privação e trabalho, longe de qualquer imagem simples de heroísmo.",
+      "start": 360,
+      "duration": 15
+    },
+    {
+      "id": 25,
+      "chapter": 6,
+      "title": "Resistir ao cerco",
+      "date": "CONSTANTINO XI",
+      "kind": "army",
+      "text": "Os defensores precisavam vigiar uma extensa linha de fortificações com recursos limitados. Reparar danos, distribuir suprimentos e deslocar homens entre setores eram decisões constantes. As comunidades estrangeiras e os combatentes locais não formavam um grupo homogêneo, embora compartilhassem a urgência da defesa.",
+      "start": 375,
+      "duration": 15
+    },
+    {
+      "id": 26,
+      "chapter": 6,
+      "title": "Resistir ao cerco",
+      "date": "CONSTANTINO XI",
+      "kind": "character",
+      "text": "As tentativas otomanas incluíram ataques e operações de aproximação, enquanto os sitiados procuravam neutralizar ameaças. A resistência prolongada mostra que a queda não foi um gesto instantâneo da artilharia. Foi um processo de desgaste, de adaptação e de decisões tomadas sob pressão.",
+      "start": 390,
+      "duration": 15
+    },
+    {
+      "id": 27,
+      "chapter": 6,
+      "title": "Resistir ao cerco",
+      "date": "CONSTANTINO XI",
+      "kind": "army",
+      "text": "A esperança de auxílio continuava presente, mas o socorro suficiente não chegou. No fim de maio, o cerco se aproximava de uma decisão. As fontes descrevem preparativos religiosos e militares. É possível reconhecer a gravidade desse momento sem inventar as palavras que seus protagonistas teriam pronunciado.",
+      "start": 405,
+      "duration": 15
+    },
+    {
+      "id": 28,
+      "chapter": 7,
+      "title": "A última madrugada",
+      "date": "29 DE MAIO DE 1453",
+      "kind": "siege",
+      "text": "Na madrugada de vinte e nove de maio, os otomanos lançaram o ataque decisivo. A pressão veio em sucessivas investidas, concentrando o esforço sobre uma defesa já desgastada. Ruído, escuridão e fumaça dificultavam a percepção do que acontecia em cada trecho das muralhas.",
+      "start": 420,
+      "duration": 15
+    },
+    {
+      "id": 29,
+      "chapter": 7,
+      "title": "A última madrugada",
+      "date": "29 DE MAIO DE 1453",
+      "kind": "army",
+      "text": "Os defensores resistiram, mas precisavam enfrentar o acúmulo de danos e o peso de um inimigo com mais recursos. As descrições do assalto variam em detalhes. O quadro geral é de combate intenso, de brechas disputadas e de dificuldade crescente para manter a linha.",
+      "start": 435,
+      "duration": 15
+    },
+    {
+      "id": 30,
+      "chapter": 7,
+      "title": "A última madrugada",
+      "date": "29 DE MAIO DE 1453",
+      "kind": "siege",
+      "text": "Giustiniani foi ferido e deixou sua posição. As circunstâncias exatas são debatidas, mas sua retirada é frequentemente associada à desorganização da defesa naquele setor. Explicar a derrota apenas por esse episódio, porém, apagaria semanas de desgaste e o desequilíbrio entre os dois lados.",
+      "start": 450,
+      "duration": 15
+    },
+    {
+      "id": 31,
+      "chapter": 7,
+      "title": "A última madrugada",
+      "date": "29 DE MAIO DE 1453",
+      "kind": "army",
+      "text": "As tropas otomanas conseguiram penetrar nas defesas. A ruptura de uma linha não era apenas um ponto no mapa: alterava o movimento dos combatentes e espalhava insegurança. A cidade perdia a capacidade de manter uma defesa coordenada. O cerco chegava ao seu desfecho.",
+      "start": 465,
+      "duration": 15
+    },
+    {
+      "id": 32,
+      "chapter": 8,
+      "title": "A cidade conquistada",
+      "date": "29 DE MAIO • 1453",
+      "kind": "city",
+      "text": "Constantinopla caiu em vinte e nove de maio de 1453. Constantino Onze morreu durante a queda. As circunstâncias de sua morte e a identificação de seu corpo permanecem incertas. Os relatos posteriores alimentaram imagens poderosas, mas a narrativa histórica precisa distinguir memória e documentação.",
+      "start": 480,
+      "duration": 15
+    },
+    {
+      "id": 33,
+      "chapter": 8,
+      "title": "A cidade conquistada",
+      "date": "29 DE MAIO • 1453",
+      "kind": "map",
+      "text": "A conquista trouxe violência, saque e escravização de habitantes. Para quem vivia na cidade, a mudança de poder não foi apenas uma alteração de fronteiras. Famílias foram separadas, patrimônios se perderam e o futuro passou a depender das condições impostas pelos vencedores.",
+      "start": 495,
+      "duration": 15
+    },
+    {
+      "id": 34,
+      "chapter": 8,
+      "title": "A cidade conquistada",
+      "date": "29 DE MAIO • 1453",
+      "kind": "city",
+      "text": "Mehmed entrou na capital conquistada. Santa Sofia foi convertida em mesquita, tornando visível a mudança de soberania. Ao mesmo tempo, o sultão precisava reorganizar uma cidade que pretendia governar. A vitória militar abria uma tarefa de reconstrução política, econômica e urbana.",
+      "start": 510,
+      "duration": 15
+    },
+    {
+      "id": 35,
+      "chapter": 8,
+      "title": "A cidade conquistada",
+      "date": "29 DE MAIO • 1453",
+      "kind": "map",
+      "text": "O fim do governo imperial em Constantinopla não encerrou imediatamente todos os Estados de tradição bizantina. O despotado da Moreia e o Império de Trebizonda sobreviveram por alguns anos. Ainda assim, a perda da capital marcou uma ruptura decisiva na história do antigo mundo romano.",
+      "start": 525,
+      "duration": 15
+    },
+    {
+      "id": 36,
+      "chapter": 9,
+      "title": "Depois de 1453",
+      "date": "UM NOVO CENTRO IMPERIAL",
+      "kind": "map",
+      "text": "Sob domínio otomano, Constantinopla se tornou o centro de um império em expansão. O poder promoveu reassentamentos e reorganizou instituições e atividades econômicas. A cidade não desapareceu com a conquista: foi transformada por novos projetos de governo e por continuidades de sua população e de seu espaço.",
+      "start": 540,
+      "duration": 15
+    },
+    {
+      "id": 37,
+      "chapter": 9,
+      "title": "Depois de 1453",
+      "date": "UM NOVO CENTRO IMPERIAL",
+      "kind": "city",
+      "text": "A queda teve enorme repercussão no mundo cristão. Mas a ideia de que fechou de uma vez todas as rotas comerciais e obrigou a Europa a navegar é uma simplificação. Comércio, rivalidades políticas e expansão marítima seguiram processos longos, com múltiplas causas.",
+      "start": 555,
+      "duration": 15
+    },
+    {
+      "id": 38,
+      "chapter": 9,
+      "title": "Depois de 1453",
+      "date": "UM NOVO CENTRO IMPERIAL",
+      "kind": "map",
+      "text": "Também é inadequado dizer que o Renascimento começou apenas com a chegada de estudiosos gregos após 1453. A circulação de textos e saberes já ocorria antes. A conquista intensificou deslocamentos e deu novo peso a conexões culturais que tinham uma história própria.",
+      "start": 570,
+      "duration": 15
+    },
+    {
+      "id": 39,
+      "chapter": 9,
+      "title": "Depois de 1453",
+      "date": "UM NOVO CENTRO IMPERIAL",
+      "kind": "city",
+      "text": "A data se tornou um marco convencional para o fim da Idade Média, não uma fronteira instantânea vivida por todos. Constantinopla mostra como um acontecimento pode ser, ao mesmo tempo, ruptura e transformação. As muralhas caíram. A história da cidade continuou, atravessando outros séculos e outros impérios.",
+      "start": 585,
+      "duration": 15
+    }
+  ],
+  "shorts": [
+    {
+      "id": "Corte01",
+      "title": "Muralhas que resistiam a impérios",
+      "chapter": 0,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 100,
+          "chapter": 0,
+          "title": "Muralhas que resistiam a impérios",
+          "date": "1453",
+          "kind": "city",
+          "text": "Muralhas podiam deter um império?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 101,
+          "chapter": 0,
+          "title": "Muralhas que resistiam a impérios",
+          "date": "1453",
+          "kind": "map",
+          "text": "Fosso, muralha externa e uma linha interna mais alta formavam um sistema de defesa. Não bastava alcançar uma parede: os atacantes precisavam atravessar obstáculos sob pressão dos defensores.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 102,
+          "chapter": 0,
+          "title": "Muralhas que resistiam a impérios",
+          "date": "1453",
+          "kind": "city",
+          "text": "Em 1453, essa engenharia enfrentou bombardeios repetidos. Os sitiados reparavam os danos, mas tinham poucos recursos para uma linha tão extensa.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 103,
+          "chapter": 0,
+          "title": "Muralhas que resistiam a impérios",
+          "date": "1453",
+          "kind": "map",
+          "text": "As muralhas dificultaram a conquista. O desgaste do cerco e a superioridade otomana ajudaram a superar uma defesa que continuava formidável.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte02",
+      "title": "O que os canhões mudaram?",
+      "chapter": 3,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 104,
+          "chapter": 3,
+          "title": "O que os canhões mudaram?",
+          "date": "ABRIL–MAIO • 1453",
+          "kind": "army",
+          "text": "Um canhão conquistou Constantinopla?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 105,
+          "chapter": 3,
+          "title": "O que os canhões mudaram?",
+          "date": "ABRIL–MAIO • 1453",
+          "kind": "map",
+          "text": "A artilharia otomana incluía grandes bombardas. Orbano foi um dos fundidores ligados aos preparativos, mas as dimensões das peças variam entre os relatos.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 106,
+          "chapter": 3,
+          "title": "O que os canhões mudaram?",
+          "date": "ABRIL–MAIO • 1453",
+          "kind": "army",
+          "text": "Os disparos eram lentos e exigiam cuidado. A força estava na repetição dos impactos, combinada ao bloqueio e aos ataques. Os defensores tentavam reparar as brechas.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 107,
+          "chapter": 3,
+          "title": "O que os canhões mudaram?",
+          "date": "ABRIL–MAIO • 1453",
+          "kind": "map",
+          "text": "A cidade não caiu por uma arma milagrosa. Artilharia, logística, desgaste e tropas atuaram juntos.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte03",
+      "title": "O plano de Mehmed II",
+      "chapter": 2,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 108,
+          "chapter": 2,
+          "title": "O plano de Mehmed II",
+          "date": "1451–1452",
+          "kind": "character",
+          "text": "Como cercar dois continentes?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 109,
+          "chapter": 2,
+          "title": "O plano de Mehmed II",
+          "date": "1451–1452",
+          "kind": "map",
+          "text": "Mehmed Segundo queria Constantinopla por sua posição e por seu prestígio imperial. Em 1452, mandou construir Rumeli Hisarı no Bósforo.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 110,
+          "chapter": 2,
+          "title": "O plano de Mehmed II",
+          "date": "1451–1452",
+          "kind": "character",
+          "text": "A fortaleza pressionava o tráfego do estreito. O sultão também reuniu tropas, navios e artilharia, preparando uma operação que dependia de alimentos e transporte.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 111,
+          "chapter": 2,
+          "title": "O plano de Mehmed II",
+          "date": "1451–1452",
+          "kind": "map",
+          "text": "A conquista começou antes do assalto. Sua estratégia transformou a logística em pressão sobre uma capital isolada.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte04",
+      "title": "Navios atravessaram a terra",
+      "chapter": 5,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 112,
+          "chapter": 5,
+          "title": "Navios atravessaram a terra",
+          "date": "ABRIL • CHIFRE DE OURO",
+          "kind": "fleet",
+          "text": "Navios atravessaram a terra?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 113,
+          "chapter": 5,
+          "title": "Navios atravessaram a terra",
+          "date": "ABRIL • CHIFRE DE OURO",
+          "kind": "map",
+          "text": "Uma corrente protegia a entrada do Chifre de Ouro. Ela dificultava o acesso da frota otomana ao abrigo situado ao norte de Constantinopla.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 114,
+          "chapter": 5,
+          "title": "Navios atravessaram a terra",
+          "date": "ABRIL • CHIFRE DE OURO",
+          "kind": "fleet",
+          "text": "Em abril de 1453, embarcações foram transportadas por uma rota terrestre preparada, contornando a região de Gálata. O percurso exato e os números são discutidos.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 115,
+          "chapter": 5,
+          "title": "Navios atravessaram a terra",
+          "date": "ABRIL • CHIFRE DE OURO",
+          "kind": "map",
+          "text": "A corrente não foi removida. Parte da frota chegou ao outro lado, obrigando os defensores a dividir seus recursos.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte05",
+      "title": "Quem defendia Constantinopla?",
+      "chapter": 4,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 116,
+          "chapter": 4,
+          "title": "Quem defendia Constantinopla?",
+          "date": "ABRIL DE 1453",
+          "kind": "siege",
+          "text": "Quem defendia a cidade?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 117,
+          "chapter": 4,
+          "title": "Quem defendia Constantinopla?",
+          "date": "ABRIL DE 1453",
+          "kind": "map",
+          "text": "A defesa reunia habitantes da cidade e combatentes estrangeiros. Entre seus comandantes estava o genovês Giovanni Giustiniani. Eles enfrentavam forças muito superiores.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 118,
+          "chapter": 4,
+          "title": "Quem defendia Constantinopla?",
+          "date": "ABRIL DE 1453",
+          "kind": "siege",
+          "text": "Não bastava combater. Era preciso vigiar, distribuir suprimentos e reconstruir setores atingidos pelos canhões. Terra e madeira ajudavam nos reparos improvisados.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 119,
+          "chapter": 4,
+          "title": "Quem defendia Constantinopla?",
+          "date": "ABRIL DE 1453",
+          "kind": "map",
+          "text": "Resistir era também trabalhar. A defesa prolongou o cerco, mas não conseguiu compensar o desequilíbrio de recursos.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte06",
+      "title": "O último imperador",
+      "chapter": 6,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 120,
+          "chapter": 6,
+          "title": "O último imperador",
+          "date": "CONSTANTINO XI",
+          "kind": "character",
+          "text": "Quem foi Constantino Onze?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 121,
+          "chapter": 6,
+          "title": "O último imperador",
+          "date": "CONSTANTINO XI",
+          "kind": "map",
+          "text": "Ele governava um império reduzido e uma capital ameaçada. Durante o cerco de 1453, sua presença tornou-se um símbolo da resistência bizantina.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 122,
+          "chapter": 6,
+          "title": "O último imperador",
+          "date": "CONSTANTINO XI",
+          "kind": "character",
+          "text": "A defesa precisava de ajuda que não chegou em escala suficiente. O imperador morreu na queda da cidade, mas os detalhes de sua morte permanecem incertos.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 123,
+          "chapter": 6,
+          "title": "O último imperador",
+          "date": "CONSTANTINO XI",
+          "kind": "map",
+          "text": "É possível reconhecer sua resistência sem inventar suas últimas palavras. A história fica mais forte quando também admite o que não sabemos.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte07",
+      "title": "A madrugada de 29 de maio",
+      "chapter": 7,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 124,
+          "chapter": 7,
+          "title": "A madrugada de 29 de maio",
+          "date": "29 DE MAIO DE 1453",
+          "kind": "siege",
+          "text": "Como a defesa se rompeu?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 125,
+          "chapter": 7,
+          "title": "A madrugada de 29 de maio",
+          "date": "29 DE MAIO DE 1453",
+          "kind": "map",
+          "text": "Na madrugada de vinte e nove de maio de 1453, os otomanos lançaram o assalto decisivo contra posições desgastadas por semanas de cerco.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 126,
+          "chapter": 7,
+          "title": "A madrugada de 29 de maio",
+          "date": "29 DE MAIO DE 1453",
+          "kind": "siege",
+          "text": "Giustiniani foi ferido e deixou sua posição. A retirada é associada à desorganização da defesa, mas não explica sozinha a derrota. As tropas otomanas penetraram nas fortificações.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 127,
+          "chapter": 7,
+          "title": "A madrugada de 29 de maio",
+          "date": "29 DE MAIO DE 1453",
+          "kind": "map",
+          "text": "A queda resultou de um processo. O assalto final encerrou semanas de pressão militar e de resistência.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": "Corte08",
+      "title": "1453 mudou tudo de uma vez?",
+      "chapter": 9,
+      "duration": 48,
+      "shots": [
+        {
+          "id": 128,
+          "chapter": 9,
+          "title": "1453 mudou tudo de uma vez?",
+          "date": "UM NOVO CENTRO IMPERIAL",
+          "kind": "map",
+          "text": "Um dia encerrou a Idade Média?",
+          "start": 0,
+          "duration": 3
+        },
+        {
+          "id": 129,
+          "chapter": 9,
+          "title": "1453 mudou tudo de uma vez?",
+          "date": "UM NOVO CENTRO IMPERIAL",
+          "kind": "map",
+          "text": "A conquista de Constantinopla em 1453 tornou-se um marco histórico. A cidade passou a ser o centro de um império otomano em expansão.",
+          "start": 3,
+          "duration": 12
+        },
+        {
+          "id": 130,
+          "chapter": 9,
+          "title": "1453 mudou tudo de uma vez?",
+          "date": "UM NOVO CENTRO IMPERIAL",
+          "kind": "map",
+          "text": "Mas não houve uma mudança instantânea no mundo inteiro. As rotas comerciais não se fecharam todas, e o Renascimento não começou apenas com a chegada de estudiosos gregos.",
+          "start": 15,
+          "duration": 21
+        },
+        {
+          "id": 131,
+          "chapter": 9,
+          "title": "1453 mudou tudo de uma vez?",
+          "date": "UM NOVO CENTRO IMPERIAL",
+          "kind": "map",
+          "text": "Datas ajudam a organizar a história. Para compreender 1453, precisamos enxergar tanto as rupturas quanto as continuidades.",
+          "start": 36,
+          "duration": 12
+        }
+      ]
+    }
+  ]
+}

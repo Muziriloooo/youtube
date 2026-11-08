@@ -1,0 +1,5 @@
+public/audio/*.wav filter=lfs diff=lfs merge=lfs -text
+exportacoes/youtube/*.mp4 filter=lfs diff=lfs merge=lfs -text
+exportacoes/shorts/*.mp4 filter=lfs diff=lfs merge=lfs -text
+exportacoes/piloto/*.mp4 filter=lfs diff=lfs merge=lfs -text
+exportacoes/*.zip filter=lfs diff=lfs merge=lfs -text

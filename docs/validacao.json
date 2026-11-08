@@ -1,0 +1,112 @@
+[
+  {
+    "file": "exportacoes/piloto/piloto_horizontal.mp4",
+    "status": "passou",
+    "frames": "1350",
+    "width": 1920,
+    "height": 1080,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "45.000000"
+  },
+  {
+    "file": "exportacoes/piloto/piloto_vertical.mp4",
+    "status": "passou",
+    "frames": "1350",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "45.000000"
+  },
+  {
+    "file": "exportacoes/youtube/documentario_completo.mp4",
+    "status": "passou",
+    "frames": "18000",
+    "width": 1920,
+    "height": 1080,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "600.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_01.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_02.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_03.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_04.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_05.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_06.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_07.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  },
+  {
+    "file": "exportacoes/shorts/corte_08.mp4",
+    "status": "passou",
+    "frames": "1440",
+    "width": 1080,
+    "height": 1920,
+    "video": "h264",
+    "audio": "aac",
+    "duration": "48.000000"
+  }
+]

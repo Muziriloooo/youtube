@@ -1,0 +1,13 @@
+node_modules/
+exportacoes/**/*.mp4
+exportacoes/painel/
+public/audio/*.wav
+out/
+.DS_Store
+.tools/
+
+__pycache__/
+
+exportacoes/.partes/
+
+exportacoes/*.zip
